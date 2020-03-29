@@ -46,15 +46,15 @@ You can't divide them into smaller parts, unlike how a horse's cleft hoof is spl
 
 All the elements like hydrogen, oxygen, nitrogen, carbon, and sulphur combine as molecules.
 The way the bits are arranged, and the number of elements in them, changes how the molecules act.
+For example, many different foodstuffs are only made of carbon, hydrogen, and oxygen:
 
-For example, many different foodstuffs are only made of carbon, hydrogen, oxygen, and nitrogen:
 - the simple sugars in honey, fruit, chocolate cake, and other sweet things;
 - the complex sugars in whole grains, vegetables, beans, nuts, and seeds;
 - the fats in eggs, butter, and milk; certain fruits like olives and avocados; and meat and nuts;
 - the protein that normally comes with fatty foods and certain legumes like beans.[^food1992]
 
 **Bulkbits.**
-If you think about it, those four elements are responsible for all family dinners ever.
+If you think about it, those three elements are responsible for all family dinners ever.
 But that's not all there is to having a healthy diet of whole foods.
 
 Eating many different foods gives you different vitamins and minerals as well.
@@ -70,8 +70,8 @@ The very organism is beholden to the cells that comprise it, tireless biochemist
 Most molecules are found stitched together in complex patterns called polymer chains.
 These compounds are where life's action really happens:
 the very complex and unique sugars in plant cell walls can have different effects as your body breaks them down.
-
 Also, the cells can make their own compounds for many different reasons such as
+
 - turning sunlight or food into nutrients,
 - using the nutrients to grow or heal injuries,
 - attacking competitors or removing parasites,
@@ -130,6 +130,7 @@ That's why your teeth feel raw after eating spinach: tiny glass particles embedd
 Carbon comes in different forms such as graphite and diamonds.
 It's also the main component of coal, peat, oil, and methane.
 Other related elements include metals like
+
 - Titanium (Ti) or *germanstuff,* first purified by Germans and used in military and aerospace engineering;
 - Tin (Sn), used to solder things together and to make special alloys such as pewter and bronze; and
 - Lead (Pb), a toxic metal that's very dense and can be alloyed with antimony to shield against radiation.
@@ -145,6 +146,12 @@ Compared to gold, which never tarnishes unless it's alloyed with a reactive meta
 - Potassium (K) or *potashstuff;* potash is plant ashes and usually used in fertilizer
 - Rubidium (Rb) or *redstuff,* used to give fireworks a red or purple color
 - Caesium (Cs) or *bluegraystuff,* used in atomic clocks and vacuum electronics
+
+
+**Nitrogeen.**
+`todo:`
+Make a *stuff* name for nitrogen and briefly explain how it's an alternate food source for `chemo` `trophs` and generally smelly processes.
+Continue the thread started in **Coalstuff** about methane and peat.
 
 
 ## Activity: making sauerkraut
