@@ -53,10 +53,10 @@ For example, many different foodstuffs are only made of carbon, hydrogen, and ox
 - the fats in eggs, butter, and milk; certain fruits like olives and avocados; and meat and nuts;
 - the protein that normally comes with fatty foods and certain legumes like beans.[^food1992]
 
-**Bulkbits.**
 If you think about it, those three elements are responsible for all family dinners ever.
 But that's not all there is to having a healthy diet of whole foods.
 
+**Bulkbits.**
 Eating many different foods gives you different vitamins and minerals as well.
 Those are other more rare and special molecules, like antioxidants and melanins,
 and Vitamin C to fight scurvy and Vitamin A for healthy skin.
@@ -148,18 +148,98 @@ Compared to gold, which never tarnishes unless it's alloyed with a reactive meta
 - Caesium (Cs) or *bluegraystuff,* used in atomic clocks and vacuum electronics
 
 
-**Nitrogeen.**
+**Nitrogen.**
 `todo:`
 Make a *stuff* name for nitrogen and briefly explain how it's an alternate food source for `chemo` `trophs` and generally smelly processes.
 Continue the thread started in **Coalstuff** about methane and peat.
 
 
-## Activity: making sauerkraut
+# Activity: making sauerkraut
 
-`todo:`
-Write a short overview in simple English of the lactate dehydrogenase pathway.
-Also include a recipe for sprout kraut with tumeric and a note that most vegetables are fermentable.
-Throw it away if moldy, be clean when you make it, basic mother-and-child kitchen activity stuff.
+Making sauerkraut is fun and easy to do at home and it requires no special equipment.
+The best part is that the same technique can be used on almost any combination of vegetables.
+
+
+## The lactate dehydrogenase pathway
+
+Lactose fermentation is the process by which lactobacteria convert vegetable sugars into lactic acid and carbon dioxide.
+The health benefits of fermented vegetables come from increased numbers of live bacteria, not the lactic acid itself.
+
+The cells take up sugars, simple and complex, through the cell membrane.
+Through a process called `glyco` `lysis`, the cell's chemicals break down the sugar.
+
+Some of this sugar gets converted to lactic acid as a by-product of its breakdown.
+This gives fermented food is sour taste, including kombucha and vinegar.
+
+The rest of the sugar, along with dissolved oxygen in the brine, helps the cells grow.
+It's converted into internal energy units called ATP that powers all the cell's functions.
+The by-product of this is CO<sub>2</sub> so it's important to burp the sauerkraut jars daily.
+
+
+## Technique and recipes
+
+Sauerkraut, kimchi, and all similar foods at their core are vegetables fermented in brine.
+The washed vegetables are packed into clean wide-mouth quart jars, covered with brine, and fermented anaerobically.
+
+**Brine.**
+The brine should be 1 tbsp non-iodized sea salt per quart of water.
+It's important to boil the water so that any competing microbes are killed.
+
+When the brine reaches room temperature, I like to add a spoonful of Greek yoghurt or skyr.
+This starts the culture with lots of live lactobacteria and it imparts a delicious mild flavor.
+
+After the fermentation is done and it's time to refrigerate the sauerkraut,
+I discard the old brine and replace it with fresh brine without yoghurt.
+
+If you have whey left over from cheesemaking, that can be used in place of water and yoghurt.
+Whey is also good to drink chilled plain, in milkshakes, and to use as plant fertilizer.
+
+**Vegetables.**
+Most vegetables ferment well.
+Cabbage and Brussels sprouts are the best.
+Other good options are carrot and ginger;
+green beans and snow peas;
+and turnips, parsnips, and radishes.
+
+Cabbage and Brussels sprouts are chopped finely for sauerkraut and coarsely for kimchi.
+Fresh spices, chopped finely, can be added such as onions, garlic, ginger, and tumeric.
+The same goes for turnips, parsnips, and radishes in sauerkraut.
+
+Fermented carrot sticks are extremely good, especially with ginger.
+Green beans and snow peas need only the ends removed.
+Radishes make sticks that are on par with carrots.
+
+It's also possible to ferment, in increasing order of difficulty,
+- watery fruits and vegetables like tomatoes and cucumbers;
+- starchy vegetables like potatoes, beets, and squash; and
+- raw and cooked meat, and boiled eggs.
+
+**Cleanliness.**
+Please scrub all the vegetables with hot soapy water and rinse them thoroughly.
+Wash the Mason jars the same day you use them, even if they're already clean.
+Make sure that all surfaces, knives, etc., are clean and wash your hands frequently.
+
+**Method.**
+Cut the vegetables how you wish, pack them as tighly as possible leaving 1 in headspace, and cover with brine.
+If you have a small flat weight that fits in the jar to keep the vegetables submerged, please add it.
+
+Then close the jar and gently tap the bottom and rotate it, releasing any gas pockets.
+This is important because the combination of salt and lack of air inhibits everything but lactobacteria.
+If there are air pockets in the jar, or too much exposed to air at the top, mold may form.
+A patch of mold ruins the whole jar because by the time you see it, it's spread throughout.
+
+Seal the jars and ferment them in at room temperate in ambient light for 2 weeks.
+Every day, check the jars by opening them to release the CO<sub>2</sub> tha builds up.
+They should exhale "happy" bubbles and a refreshing scent that instinctively smells good.
+
+When the fermentation is done, you can put the same jard in the fridge and eat directly from them.
+Because I use yoghurt in the fermentation brine, I use clean jars and fresh brine.
+This removes the particles that build up at the bottom and the brine is crystal clear.
+
+**How to Enjoy.**
+Sauerkraut is excellent on sandwiches with corned beef and rye bread.
+It's also good on burgers or anywhere that dill pickles are normally used.
+I like to make sauerkraut omelettes and use it to spice up vegetable salads.
 
 
 <!--
@@ -168,4 +248,8 @@ Throw it away if moldy, be clean when you make it, basic mother-and-child kitche
   "Title," *Journal,* and https://doi.org/
 -->
 
-[^food1992]: Institute of Medicine (U.S.) Committee on Diet and Health. *Eat for Life: The Food and Nutrition Board's Guide to Reducing Your Risk of Chronic Disease,* edited by CE Woteki, PR Thomas, chapter 3. https://www.ncbi.nlm.nih.gov/books/NBK235023/
+[^food1992]: Institute of Medicine (U.S.) Committee on Diet and Health.
+    "Chapter 3: The Food We Eat."
+    *Eat for Life: The Food and Nutrition Board's Guide to Reducing Your Risk of Chronic Disease.*
+    Edited by CE Woteki and PR Thomas.
+    https://www.ncbi.nlm.nih.gov/books/NBK235023/
