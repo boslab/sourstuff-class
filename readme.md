@@ -96,7 +96,7 @@ A colorless, odorless, ubiquitous gas that easily reacts with other elements.
 It's called *waterstuff* because it provides the spark needed to make water in a great explosion.
 Water is biochemistry's natural medium: almost every reaction happens in an aqueous environment.
 
-Many cultures have concepts for pneuma, chakra, spirit, life, energy, and others.
+Many cultures have concepts for pneuma, chakra, spirit, life energy, and similar terms.
 Hydrogen is the closest thing to this we can observe: an element that sparks everything.
 
 Hydrogen and helium are called *sunstuff* because stars, cosmic engines of pure energy, are made of them.
@@ -106,8 +106,8 @@ Oxygen (O) is another abundant gas and the other part of water.
 It's called *sourstuff* because of its chemical effects:
 not only do bacteria and yeast make sour-tasting compounds when oxygen is available,
 but also dangerous substances like bleach, vitriol, permanganate, and potassium nitrare rely on it.
-These are the extremes of wet and dry sourness: acid that can eat your skin, and powders that can explode.
 
+These are the extremes of wet and dry sourness: acid that can eat your skin, and powders that can explode.
 The sourness spectrum is less dangerous in the shallow end.
 The microbes in sauerkraut make lactic acid, and oxidizers are usually acids.
 There's a field of chemistry called redox chemistry that studies what happens when oxygen-based compounds trade electrons.
