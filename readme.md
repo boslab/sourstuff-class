@@ -1,4 +1,4 @@
-| ![](pictures/plantcell-without-chloroplasts.jpg) |
+| ![](pictures/hybrid.cell.half.jpg) |
 | :-- |
 | The main action of cells is called the Central Dogma (DNA → RNA → proteins) and here's what happens. Compounds enter through receptors in the cell wall (primary shapes). The chemical signals (pathway lines) are broken down and processed. They eventually reach the nuclear membrane, where transporters called ribosomes (black dots) carry messages to the nucleus and around the cell. The nucleus checks what DNA it needs, pulls it up, and converts it to RNA (nuclear sunburst). The RNA response has directions on how to make different proteins (not pictured). These proteins use the energy from mitochondria (green squiggles) to help the cell respond to the stimulus.<br /><br />This could be either a plant or a fungus cell, by the way. A fungus would have a smaller Golgi apparatus (red and orange folds) to package proteins like a post office. A plant would have chloroplasts (not pictured) to perform photosynthesis. The endoplasmic reticulum (purple tubes) is like a subway for proteins. Vacuoles (blue circle) store water, and globules (colored dots) store nutrients. |
 
@@ -78,12 +78,13 @@ The very organism is beholden to the cells that comprise it, tireless biochemist
 
 A good rule of thumb for separating out molecules (simpler) and compounds (more complex):
 all compounds are molecules, but not all molecules are compounds.
-For example, O<sub>2</sub> is a molecule, but rust (Fe<sub>2</sub>O<sub>3</sub>) is a compound of oxidized iron.
+For example, O<sub>2</sub> is a molecule but not a compound.
+Rust (Fe<sub>2</sub>O<sub>3</sub>) is a compound of oxidized iron and you can also study "rust molecules."
 
 
 | ![](pictures/cellulose.jpg) |
 | :-- |
-| Cellulose (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>), the main structural sugar in plants and fungi. The thick black lines show the molecule's `stoi` `chio` `metry` or the physical arrangement of atoms in space. |
+| Cellulose (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>) is the main structural sugar in plants and fungi. It can combine to form very long chains with nutrients embedded in them. The thick black lines show the molecule's `stoi` `chio` `metry` or the physical arrangement of atoms in space. |
 
 
 **Bindings.**
@@ -97,7 +98,7 @@ Also, the cells can make their own compounds for many different reasons such as
 - attacking competitors or removing parasites,
 - sexually reproducing to continue the line.
 
-Mushrooms are where my personal interest lies.
+Mushrooms are my personal interest.
 Some species make powerful compounds that help your immune system learn new ways to fight disease.
 Every drug, natural or manmade, is a chemical compound;
 there are different kinds of drugs such as alkaloids, steroids, hormones, etc.
@@ -183,7 +184,7 @@ There are also certain microbes called `chemo` `trophs` that use nitrogen compou
 Nitrogen is what makes poo and pee smell bad, and it's also responsible for body odor.
 
 Ammonia, fertilizer, and cyanide are all very bitter substances because of nitrogen.
-Apple seeds and almonds contain small amounts of cyanide (CN<sup>−</sup>), giving them a somewhat bitter taste.
+Apple seeds and almonds have small amounts of cyanide (CN<sup>−</sup>) so they also taste bitter.
 
 
 | ![](pictures/hydrocarbon.jpg) |
