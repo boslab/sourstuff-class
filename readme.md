@@ -55,7 +55,7 @@ For example, many different foodstuffs are only made of carbon, hydrogen, and ox
 
 - the simple sugars in honey, fruit, chocolate cake, and other sweet things;
 - the complex sugars in whole grains, vegetables, beans, nuts, and seeds;
-- the fats in eggs, butter, and milk; certain fruits like olives and avocados; and meat and nuts;
+- the fats in eggs, butter, and milk; certain fruits like olives and avocados; and meat and nuts; and
 - the protein that normally comes with fatty foods and certain legumes like beans.[^food1992]
 
 If you think about it, those three elements are responsible for all family dinners ever.
