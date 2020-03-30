@@ -69,8 +69,11 @@ and Vitamin C to fight scurvy and Vitamin A for healthy skin.
 
 Every plant and animal makes its own chemical molecules to help it survive and bear children.
 That avocado may be nutritious, but it needs to be healthy so a new tree can grow from it.
-
 The very organism is beholden to the cells that comprise it, tireless biochemistry machines buzzing with energy.
+
+A good rule of thumb for separating out molecules (simpler) and compounds (more complex):
+all compounds are molecules, but not all molecules are compounds.
+For example, O<sub>2</sub> is a molecule, but rust (Fe<sub>2</sub>O<sub>3</sub>) is a compound of oxidized iron.
 
 
 | ![](pictures/covalent.bonds.jpg) |
@@ -194,8 +197,6 @@ Nitrogen is what makes poo and pee smell bad, and it's also responsible for body
 Ammonia, fertilizer, and cyanide are all very bitter substances because of nitrogen.
 Apple seeds and almonds contain small amounts of cyanide (CN<sup>−</sup>), giving them a somewhat bitter taste.
 
-Nitrogen usually exists as dinitrogen (N<sub>2</sub>) with two nitrogen atoms strongly bonded to each other.
-
 
 # Activity: making sauerkraut
 
@@ -221,7 +222,7 @@ The by-product of this is CO<sub>2</sub> so it's important to burp the sauerkrau
 
 | ![](pictures/plantcell-without-chloroplasts.jpg) |
 | :-- |
-| This cell could be either a plant or a fungus cell. Molecules and compounds enter through receptors in the cell wall. These cause different effects depending on how each species responds to the stimuli. `todo:` Name and briefly describe the organelles. |
+| This could be either a plant or a fungus cell. A fungus would have a smaller Golgi apparatus (red and orange folds) to package proteins like a post office. A plant would have chloroplats (not pictured) to perform photosynthesis. Compounds enter through receptors in the cell wall (primary shapes). These cause different effects depending on how each species responds to the stimuli. The chemical signals (pathway lines) are broken down by lysosomes (not pictured) in the cell wall and processed by enzymes in the cytosol (fluid inside the cell). They eventually reach the nuclear membrane, where transporters called ribosomes (black dots) carry the messages to the nucleus and around the cell. This makes the cell evauluate what DNA it needs to respond to the stimulus. The nucleus pulls up the needed DNA and converts it to RNA (nuclear sunburst). The new message comes back as RNA, which has directions to make proteins (not pictured). These proteins use the energy from mitochondria (green squiggles) to do what the cell needs in response to the original signal. They usually act as enzymes that catalyze chemical reactions. Vacuoles (blue circle) store water and globules (colored dots) store nutrients. The endoplasmic reticulum (purple tubes) is like a subway for proteins. |
 
 
 ## Technique and recipes
