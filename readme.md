@@ -214,9 +214,9 @@ It's converted into internal energy units called ATP that powers all the cell's 
 The by-product of this is CO<sub>2</sub> so it's important to burp the sauerkraut jars daily.
 
 
-| ![](pictures/lactose.fermentation.jpg) |
+| ![](pictures/lactofermentation.half.jpg) |
 | :-- |
-| `todo:` Draw and scan the LDH pathway. |
+| `todo:` Describe the LDH pathway and what the symbols mean. |
 
 
 ## Technique and recipes
