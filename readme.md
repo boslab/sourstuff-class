@@ -111,8 +111,9 @@ The change in gene expression lets the cell make new compounds to respond to the
 ## Common elemental chemical properties
 
 **Waterstuff.**
-Hydrogen (H) is the lightest and most plentiful element and it forms the basis of all matter.
+Hydrogen (H<sub>2</sub>) is the lightest and most plentiful element and it forms the basis of all matter.
 A colorless, odorless, ubiquitous gas that easily reacts with other elements.
+Like other common gasses, it's so fleeting that molecules tend to pair up.
 
 It's called *waterstuff* because it provides the spark needed to make water in a great explosion.
 Water is biochemistry's natural medium: almost every reaction happens in an aqueous environment.
@@ -123,7 +124,7 @@ Hydrogen is the closest thing to this we can observe: an element that sparks eve
 Hydrogen and helium are called *sunstuff* because stars, cosmic engines of pure energy, are made of them.
 
 **Sourstuff.**
-Oxygen (O) is another abundant gas and the other part of water.
+Oxygen (O<sub>2</sub>) is another abundant gas and the other part of water.
 It's called *sourstuff* because of its chemical effects:
 not only do bacteria and yeast make sour-tasting compounds when oxygen is available,
 but also dangerous substances like bleach, vitriol, permanganate, and potassium nitrare rely on it.
@@ -143,7 +144,7 @@ All this good and healthy food relies on oxygen or *sourstuff* to make the neces
 
 
 **Coalstuff.**
-Carbon (C) is the main solid element of biochemistry.
+Carbon (<sup>12</sup>C) is the main solid element of biochemistry.
 It forms the backbone of polymer chains and lets them bind together.
 This gives compounds the power to do things like make cell walls.
 
@@ -176,7 +177,7 @@ Compared to gold, which never tarnishes unless it's alloyed with a reactive meta
 
 
 **Chokestuff.**
-Nitrogen (N) the most abundant gas in air (78%) and and the fourth most abundant element in the human body (3%).
+Nitrogen (N<sub>2</sub>) the most abundant gas in air (78%) and and the fourth most abundant element in the human body (3%).
 It's called *chokestuff* because nitrogenous compounds usually smell bad and make you gag.
 
 The nitrogen in methane and peat comes from "nitrogen-fixing" organisms that can take nitrogen from the air and convert it into a form of energy for plants and microbes.
@@ -184,7 +185,7 @@ There are also certain microbes called `chemo` `trophs` that use nitrogen compou
 Nitrogen is what makes poo and pee smell bad, and it's also responsible for body odor.
 
 Ammonia, fertilizer, and cyanide are all very bitter substances because of nitrogen.
-Apple seeds and almonds have small amounts of cyanide (CN<sup>−</sup>) so they also taste bitter.
+Apple seeds and almonds have small amounts of cyanide (CN<sup>–</sup>) so they also taste bitter.
 Isn't it strange and wonderful how sharp smells that make you gag, come from the same substance as the air you breathe?
 
 
@@ -195,8 +196,19 @@ Isn't it strange and wonderful how sharp smells that make you gag, come from the
 
 # Activity: making sauerkraut
 
-Making sauerkraut is fun and easy to do at home and it requires no special equipment.
+Making sauerkraut is fun and easy to do at home.
+A batch can easily last a year if kept clean and cold.
+It requires no special equipment beyond
+
+- a chopping knife and cutting board,
+- a tablespoon of non-iodized sea salt,
+- a pot with half gallon (2–3 qt kraut) or gallon (6–8 qt) capacity,
+- plenty of fresh water, and
+- a tablespoon of Greek yoghurt (recommended).
+
 The best part is that the same technique can be used on almost any combination of vegetables.
+If you don't know where to start, young children are reported to love fermented carrot–ginger sticks.
+It's like a fancy version of carrot sticks that goes bad slow, cheap to make and much healthier.
 
 
 ## The lactate dehydrogenase pathway
@@ -273,8 +285,9 @@ Make sure that all surfaces, knives, etc., are clean and wash your hands frequen
 **Method.**
 Cut the vegetables how you wish, pack them as tighly as possible leaving 1 in headspace, and cover with brine.
 If you have a small flat weight that fits in the jar to keep the vegetables submerged, please add it.
-
+<span style="color: red;">**Gently use your palm against the glass, not a hard surface.**</span>
 Then close the jar and gently tap the bottom and rotate it, releasing any gas pockets.
+
 This is important because the combination of salt and lack of air inhibits everything but lactobacteria.
 If there are air pockets in the jar, or too much exposed to air at the top, mold may form.
 A patch of mold ruins the whole jar because by the time you see it, it's spread throughout.
