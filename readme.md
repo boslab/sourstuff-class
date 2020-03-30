@@ -185,6 +185,7 @@ Nitrogen is what makes poo and pee smell bad, and it's also responsible for body
 
 Ammonia, fertilizer, and cyanide are all very bitter substances because of nitrogen.
 Apple seeds and almonds have small amounts of cyanide (CN<sup>−</sup>) so they also taste bitter.
+Isn't it strange and wonderful how sharp smells that make you gag, come from the same substance as the air you breathe?
 
 
 | ![](pictures/hydrocarbon.jpg) |
@@ -216,7 +217,7 @@ The by-product of this is CO<sub>2</sub> so it's important to burp the sauerkrau
 
 | ![](pictures/lactofermentation.half.jpg) |
 | :-- |
-| The lactate dehydrogenase pathway in prokaryotic bacteria. Sugars like glucose (hexagon tablets) enter the cell through the membrane. Chemicals in the cell break it down and use it for different things. The sourness comes from lactic acid fermentation (flask). Two substances, pyruvate and lactate, are combined into ATP, and lactic acid is the by-product. The Krebs cycle (gears) makes ATP as a main product, and CO<sub>2</sub> as a by-product. Cell replication (nucleus) helps cells divide. |
+| The lactate dehydrogenase pathway in prokaryotic bacteria. Sugars like glucose (hexagon tablets) enter the cell through the membrane. Chemicals in the cell break it down and use it for different things. The sourness comes from lactic acid fermentation (flask). Two substances, pyruvate and lactate, are combined into ATP, and lactic acid is the by-product. The Krebs cycle (gears) makes ATP as a main product, and CO<sub>2</sub> as a by-product. Cell replication (nucleus) helps the cells divide. |
 
 
 ## Technique and recipes
@@ -227,8 +228,9 @@ The washed vegetables are packed into clean wide-mouth quart jars, covered with 
 **Brine.**
 The brine should be 1 tbsp non-iodized sea salt per quart of water.
 It's important to boil the water so that any competing microbes are killed.
+The brine is ready to use when you can touch the container with the back of your hand.
 
-When the brine reaches room temperature, I like to add a spoonful of Greek yoghurt or skyr.
+I like to add a spoonful of Greek yoghurt or skyr to a pint jar, shake vigorously, and return it to the main batch.
 This starts the culture with lots of live lactobacteria and it imparts a delicious mild flavor.
 
 After the fermentation is done and it's time to refrigerate the sauerkraut,
