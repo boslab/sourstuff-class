@@ -1,3 +1,5 @@
+{:toc}
+
 | ![](pictures/hybrid.cell.half.jpg) |
 | :-- |
 | The main action of cells is called the Central Dogma (DNA → RNA → proteins) and here's what happens. Compounds enter through receptors in the cell wall (primary shapes). The chemical signals (pathway lines) are broken down and processed. They eventually reach the nuclear membrane, where transporters called ribosomes (black dots) carry messages to the nucleus and around the cell. The nucleus checks what DNA it needs, pulls it up, and converts it to RNA (nuclear sunburst). The RNA response has directions on how to make different proteins (not pictured). These proteins use the energy from mitochondria (green squiggles) to help the cell respond to the stimulus.<br /><br />This could be either a plant or a fungus cell, by the way. A fungus would have a smaller Golgi apparatus (red and orange folds) to package proteins like a post office. A plant would have chloroplasts (not pictured) to perform photosynthesis. The endoplasmic reticulum (purple tubes) is like a subway for proteins. Vacuoles (blue circle) store water, and globules (colored dots) store nutrients. |
