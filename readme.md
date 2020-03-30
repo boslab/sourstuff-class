@@ -59,7 +59,7 @@ But that's not all there is to having a healthy diet of whole foods.
 
 | ![](pictures/cellulose.jpg) |
 | :-- |
-| Cellulose (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>), the main structural sugar in plants and fungi |
+| Cellulose (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>), the main structural sugar in plants and fungi. The thick black lines show the molecule's `Stoi` chio` `metry` or the physical arrangement of atoms in space. |
 
 
 **Bulkbits.**
@@ -75,7 +75,7 @@ The very organism is beholden to the cells that comprise it, tireless biochemist
 
 | ![](pictures/covalent.bonds.jpg) |
 | :-- |
-| Covalent bonds are very strong and difficult to break because the elements share electrons. They |
+| Covalent bonds are very strong and difficult to break because the elements share electrons. Chemical reactions that involve covalent bonds usually need lots of energy to form and break. |
 
 
 **Bindings.**
@@ -167,7 +167,7 @@ Other related elements include metals like
 
 | ![](pictures/hydrocarbon.jpg) |
 | :-- |
-| A hydrocarbon (CH<sub>4</sub> is the main building block of organic energy. All kinds of fossil fuels like coal, oil, butane, propane, etc., are built from increasingly complex forms of this molecule. |
+| Hydrocarbons (CH<sub>4</sub>) are the main building blocks of organic energy. All kinds of fossil fuels like coal, oil, butane, propane, etc., are built from increasingly complex forms of this molecule. |
 
 
 **Stonestuff.**
