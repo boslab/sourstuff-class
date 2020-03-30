@@ -59,7 +59,7 @@ But that's not all there is to having a healthy diet of whole foods.
 
 | ![](pictures/cellulose.jpg) |
 | :-- |
-| Cellulose (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>), the main structural sugar in plants and fungi. The thick black lines show the molecule's `Stoi` chio` `metry` or the physical arrangement of atoms in space. |
+| Cellulose (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>), the main structural sugar in plants and fungi. The thick black lines show the molecule's `stoi` `chio` `metry` or the physical arrangement of atoms in space. |
 
 
 **Bulkbits.**
@@ -183,10 +183,18 @@ Compared to gold, which never tarnishes unless it's alloyed with a reactive meta
 - Caesium (Cs) or *bluegraystuff,* used in atomic clocks and vacuum electronics
 
 
-**Nitrogen.**
-`todo:`
-Make a *stuff* name for nitrogen and briefly explain how it's an alternate food source for `chemo` `trophs` and generally smelly processes.
-Continue the thread started in **Coalstuff** about methane and peat.
+**Chokestuff.**
+Nitrogen (N) the most abundant gas in air (78%) and and the fourth most abundant element in the human body (3%).
+It's called *chokestuff* because nitrogenous compounds usually smell bad and make you gag.
+
+The nitrogen in methane and peat comes from "nitrogen-fixing" organisms that can take nitrogen from the air and convert it into a form of energy for plants and microbes.
+There are also certain microbes called `chemo` `trophs` that use nitrogen compounds for energy directly.
+Nitrogen is what makes poo and pee smell bad, and it's also responsible for body odor.
+
+Ammonia, fertilizer, and cyanide are all very bitter substances because of nitrogen.
+Apple seeds and almonds contain small amounts of cyanide (CN<sup>−</sup>), giving them a somewhat bitter taste.
+
+Nitrogen usually exists as dinitrogen (N<sub>2</sub>) with two nitrogen atoms strongly bonded to each other.
 
 
 # Activity: making sauerkraut
