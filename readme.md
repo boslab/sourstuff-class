@@ -1,3 +1,8 @@
+| ![](pictures/plantcell-without-chloroplasts.jpg) |
+| :-- |
+| The main action of cells is called the Central Dogma (DNA → RNA → proteins) and here's what happens. Compounds enter through receptors in the cell wall (primary shapes). The chemical signals (pathway lines) are broken down and processed. They eventually reach the nuclear membrane, where transporters called ribosomes (black dots) carry messages to the nucleus and around the cell. The nucleus checks what DNA it needs, pulls it up, and converts it to RNA (nuclear sunburst). The RNA response has directions on how to make different proteins (not pictured). These proteins use the energy from mitochondria (green squiggles) to help the cell respond to the stimulus.<br /><br />This could be either a plant or a fungus cell, by the way. A fungus would have a smaller Golgi apparatus (red and orange folds) to package proteins like a post office. A plant would have chloroplasts (not pictured) to perform photosynthesis. The endoplasmic reticulum (purple tubes) is like a subway for proteins. Vacuoles (blue circle) store water, and globules (colored dots) store nutrients. |
+
+
 # Introduction
 
 The current insight into the living stuff of cells is far past Anglo-Saxon times.
@@ -57,9 +62,9 @@ If you think about it, those three elements are responsible for all family dinne
 But that's not all there is to having a healthy diet of whole foods.
 
 
-| ![](pictures/cellulose.jpg) |
-| :-- |
-| Cellulose (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>), the main structural sugar in plants and fungi. The thick black lines show the molecule's `stoi` `chio` `metry` or the physical arrangement of atoms in space. |
+| ![](pictures/hydrogen.jpg) | ![](pictures/oxygen.jpg) | ![](pictures/carbon.jpg) |
+| :-- | :-- | :-- |
+| Hydrogen or *waterstuff.* | Oxygen or *sourstuff.* | Carbon or *coalstuff.* |
 
 
 **Bulkbits.**
@@ -76,9 +81,9 @@ all compounds are molecules, but not all molecules are compounds.
 For example, O<sub>2</sub> is a molecule, but rust (Fe<sub>2</sub>O<sub>3</sub>) is a compound of oxidized iron.
 
 
-| ![](pictures/covalent.bonds.jpg) |
+| ![](pictures/cellulose.jpg) |
 | :-- |
-| Covalent bonds are very strong and difficult to break because the elements share electrons. Chemical reactions that involve covalent bonds usually need lots of energy to form and break. |
+| Cellulose (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>), the main structural sugar in plants and fungi. The thick black lines show the molecule's `stoi` `chio` `metry` or the physical arrangement of atoms in space. |
 
 
 **Bindings.**
@@ -104,11 +109,6 @@ The change in gene expression lets the cell make new compounds to respond to the
 
 ## Common elemental chemical properties
 
-| ![](pictures/hydrogen.jpg) |
-| :-- |
-| Hydrogen or *waterstuff.* |
-
-
 **Waterstuff.**
 Hydrogen (H) is the lightest and most plentiful element and it forms the basis of all matter.
 A colorless, odorless, ubiquitous gas that easily reacts with other elements.
@@ -120,12 +120,6 @@ Many cultures have concepts for pneuma, chakra, spirit, life energy, and similar
 Hydrogen is the closest thing to this we can observe: an element that sparks everything.
 
 Hydrogen and helium are called *sunstuff* because stars, cosmic engines of pure energy, are made of them.
-
-
-| ![](pictures/oxygen.jpg) |
-| :-- |
-| Oxygen or *sourstuff.* |
-
 
 **Sourstuff.**
 Oxygen (O) is another abundant gas and the other part of water.
@@ -142,9 +136,9 @@ For our purposes, however, the sourness in sauerkraut, kimchi, yoghurt, sourdoug
 All this good and healthy food relies on oxygen or *sourstuff* to make the necessary molecules.
 
 
-| ![](pictures/carbon.jpg) |
+| ![](pictures/covalent.bonds.jpg) |
 | :-- |
-| Carbon or *coalstuff.* |
+| Covalent bonds are very strong and difficult to break because the elements share electrons. Chemical reactions that involve covalent bonds usually need lots of energy to form and break. |
 
 
 **Coalstuff.**
@@ -166,12 +160,6 @@ Other related elements include metals like
 - Titanium (Ti) or *germanstuff,* first purified by Germans and used in military and aerospace engineering;
 - Tin (Sn), used to solder things together and to make special alloys such as pewter and bronze; and
 - Lead (Pb), a toxic metal that's very dense and can be alloyed with antimony to shield against radiation.
-
-
-| ![](pictures/hydrocarbon.jpg) |
-| :-- |
-| Hydrocarbons (CH<sub>4</sub>) are the main building blocks of organic energy. All kinds of fossil fuels like coal, oil, butane, propane, etc., are built from increasingly complex forms of this molecule. |
-
 
 **Stonestuff.**
 These are the elements in Group 1 of the periodic table, the alkali metals.
@@ -198,6 +186,11 @@ Ammonia, fertilizer, and cyanide are all very bitter substances because of nitro
 Apple seeds and almonds contain small amounts of cyanide (CN<sup>−</sup>), giving them a somewhat bitter taste.
 
 
+| ![](pictures/hydrocarbon.jpg) |
+| :-- |
+| Hydrocarbons (CH<sub>4</sub>) are the main building blocks of organic energy. All kinds of fossil fuels like coal, oil, butane, propane, etc., are built from increasingly complex forms of this molecule. |
+
+
 # Activity: making sauerkraut
 
 Making sauerkraut is fun and easy to do at home and it requires no special equipment.
@@ -220,9 +213,9 @@ It's converted into internal energy units called ATP that powers all the cell's 
 The by-product of this is CO<sub>2</sub> so it's important to burp the sauerkraut jars daily.
 
 
-| ![](pictures/plantcell-without-chloroplasts.jpg) |
+| ![](pictures/lactose.fermentation.jpg) |
 | :-- |
-| The main action of cells is called the Central Dogma (DNA → RNA → proteins) and here's what happens. Compounds enter through receptors in the cell wall (primary shapes). The chemical signals (pathway lines) are broken down and processed. They eventually reach the nuclear membrane, where transporters called ribosomes (black dots) carry messages to the nucleus and around the cell. The nucleus checks what DNA it needs, pulls it up, and converts it to RNA (nuclear sunburst). The RNA response has directions on how to make different proteins (not pictured). These proteins use the energy from mitochondria (green squiggles) to help the cell respond to the stimulus.<br /><br />This could be either a plant or a fungus cell, by the way. A fungus would have a smaller Golgi apparatus (red and orange folds) to package proteins like a post office. A plant would have chloroplasts (not pictured) to perform photosynthesis. The endoplasmic reticulum (purple tubes) is like a subway for proteins. Vacuoles (blue circle) store water, and globules (colored dots) store nutrients. |
+| `todo:` Draw and scan the LDH pathway. |
 
 
 ## Technique and recipes
@@ -263,6 +256,12 @@ It's also possible to ferment, in increasing order of difficulty,
 - starchy vegetables like potatoes, beets, and squash; and
 - raw and cooked meat, and boiled eggs.
 
+
+| ![](pictures/sauerkraut.jpg) |
+| :-- |
+| `todo:` Draw and scan inside the sauerkraut jars. |
+
+
 **Cleanliness.**
 Please scrub all the vegetables with hot soapy water and rinse them thoroughly.
 Wash the Mason jars the same day you use them, even if they're already clean.
@@ -281,7 +280,7 @@ Seal the jars and ferment them in at room temperate in ambient light for 2 weeks
 Every day, check the jars by opening them to release the CO<sub>2</sub> tha builds up.
 They should exhale "happy" bubbles and a refreshing scent that instinctively smells good.
 
-When the fermentation is done, you can put the same jard in the fridge and eat directly from them.
+When the fermentation is done, you can put the same jars in the fridge and eat directly from them.
 Because I use yoghurt in the fermentation brine, I use clean jars and fresh brine.
 This removes the particles that build up at the bottom and the brine is crystal clear.
 
