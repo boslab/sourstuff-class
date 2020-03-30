@@ -216,7 +216,7 @@ The by-product of this is CO<sub>2</sub> so it's important to burp the sauerkrau
 
 | ![](pictures/lactofermentation.half.jpg) |
 | :-- |
-| `todo:` Describe the LDH pathway and what the symbols mean. |
+| The lactate dehydrogenase pathway in prokaryotic bacteria. Sugars like glucose (hexagon tablets) enter the cell through the membrane. Chemicals in the cell break it down and use it for different things. The sourness comes from lactic acid fermentation (flask). Two substances, pyruvate and lactate, are combined into ATP, and lactic acid is the by-product. The Krebs cycle (gears) makes ATP as a main product, and CO<sub>2</sub> as a by-product. Cell replication (nucleus) helps cells divide. |
 
 
 ## Technique and recipes
