@@ -258,9 +258,9 @@ It's also possible to ferment, in increasing order of difficulty,
 - raw and cooked meat, and boiled eggs.
 
 
-| ![](pictures/sauerkraut.jpg) |
+| ![](pictures/ingredients.jpg) |
 | :-- |
-| `todo:` Draw and scan inside the sauerkraut jars. |
+| `todo:` Photograph the assembled tools and ingredients. |
 
 
 **Cleanliness.**
@@ -289,6 +289,11 @@ This removes the particles that build up at the bottom and the brine is crystal 
 Sauerkraut is excellent on sandwiches with corned beef and rye bread.
 It's also good on burgers or anywhere that dill pickles are normally used.
 I like to make sauerkraut omelettes and use it to spice up vegetable salads.
+
+
+| ![](pictures/sauerkraut.jpg) |
+| :-- |
+| `todo:` Photograph fermenting sauerkraut jars. |
 
 
 <!--
