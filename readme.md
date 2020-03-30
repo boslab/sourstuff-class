@@ -56,15 +56,27 @@ For example, many different foodstuffs are only made of carbon, hydrogen, and ox
 If you think about it, those three elements are responsible for all family dinners ever.
 But that's not all there is to having a healthy diet of whole foods.
 
+
+| ![](pictures/cellulose.jpg) |
+| :-- |
+| Cellulose (C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>), the main structural sugar in plants and fungi |
+
+
 **Bulkbits.**
 Eating many different foods gives you different vitamins and minerals as well.
 Those are other more rare and special molecules, like antioxidants and melanins,
 and Vitamin C to fight scurvy and Vitamin A for healthy skin.
 
 Every plant and animal makes its own chemical molecules to help it survive and bear children.
-That avocado may be delicious and nutritious, but it needs to be healthy so a new tree can grow from it.
+That avocado may be nutritious, but it needs to be healthy so a new tree can grow from it.
 
 The very organism is beholden to the cells that comprise it, tireless biochemistry machines buzzing with energy.
+
+
+| ![](pictures/covalent.bonds.jpg) |
+| :-- |
+| Covalent bonds are very strong and difficult to break because the elements share electrons. They |
+
 
 **Bindings.**
 Most molecules are found stitched together in complex patterns called polymer chains.
@@ -87,7 +99,12 @@ When a drug fits into a receptor is causes the cell to produce molecules that ch
 The change in gene expression lets the cell make new compounds to respond to the drug's chemical message.
 
 
-## Common firststuffs's chemical properties
+## Common elemental chemical properties
+
+| ![](pictures/hydrogen.jpg) |
+| :-- |
+| Hydrogen or *waterstuff.* |
+
 
 **Waterstuff.**
 Hydrogen (H) is the lightest and most plentiful element and it forms the basis of all matter.
@@ -100,6 +117,12 @@ Many cultures have concepts for pneuma, chakra, spirit, life energy, and similar
 Hydrogen is the closest thing to this we can observe: an element that sparks everything.
 
 Hydrogen and helium are called *sunstuff* because stars, cosmic engines of pure energy, are made of them.
+
+
+| ![](pictures/oxygen.jpg) |
+| :-- |
+| Oxygen or *sourstuff.* |
+
 
 **Sourstuff.**
 Oxygen (O) is another abundant gas and the other part of water.
@@ -114,6 +137,12 @@ There's a field of chemistry called redox chemistry that studies what happens wh
 
 For our purposes, however, the sourness in sauerkraut, kimchi, yoghurt, sourdough bread, etc., comes from lactic acid fermentation.
 All this good and healthy food relies on oxygen or *sourstuff* to make the necessary molecules.
+
+
+| ![](pictures/carbon.jpg) |
+| :-- |
+| Carbon or *coalstuff.* |
+
 
 **Coalstuff.**
 Carbon (C) is the main solid element of biochemistry.
@@ -134,6 +163,12 @@ Other related elements include metals like
 - Titanium (Ti) or *germanstuff,* first purified by Germans and used in military and aerospace engineering;
 - Tin (Sn), used to solder things together and to make special alloys such as pewter and bronze; and
 - Lead (Pb), a toxic metal that's very dense and can be alloyed with antimony to shield against radiation.
+
+
+| ![](pictures/hydrocarbon.jpg) |
+| :-- |
+| A hydrocarbon (CH<sub>4</sub> is the main building block of organic energy. All kinds of fossil fuels like coal, oil, butane, propane, etc., are built from increasingly complex forms of this molecule. |
+
 
 **Stonestuff.**
 These are the elements in Group 1 of the periodic table, the alkali metals.
@@ -174,6 +209,11 @@ This gives fermented food is sour taste, including kombucha and vinegar.
 The rest of the sugar, along with dissolved oxygen in the brine, helps the cells grow.
 It's converted into internal energy units called ATP that powers all the cell's functions.
 The by-product of this is CO<sub>2</sub> so it's important to burp the sauerkraut jars daily.
+
+
+| ![](pictures/plantcell-without-chloroplasts.jpg) |
+| :-- |
+| This cell could be either a plant or a fungus cell. Molecules and compounds enter through receptors in the cell wall. These cause different effects depending on how each species responds to the stimuli. `todo:` Name and briefly describe the organelles. |
 
 
 ## Technique and recipes
