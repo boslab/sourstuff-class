@@ -1,5 +1,3 @@
-{:toc}
-
 | ![](pictures/hybrid.cell.half.jpg) |
 | :-- |
 | The main action of cells is called the Central Dogma (DNA → RNA → proteins) and here's what happens. Compounds enter through receptors in the cell wall (primary shapes). The chemical signals (pathway lines) are broken down and processed. They eventually reach the nuclear membrane, where transporters called ribosomes (black dots) carry messages to the nucleus and around the cell. The nucleus checks what DNA it needs, pulls it up, and converts it to RNA (nuclear sunburst). The RNA response has directions on how to make different proteins (not pictured). These proteins use the energy from mitochondria (green squiggles) to help the cell respond to the stimulus.<br /><br />This could be either a plant or a fungus cell, by the way. A fungus would have a smaller Golgi apparatus (red and orange folds) to package proteins like a post office. A plant would have chloroplasts (not pictured) to perform photosynthesis. The endoplasmic reticulum (purple tubes) is like a subway for proteins. Vacuoles (blue circle) store water, and globules (colored dots) store nutrients. |
@@ -196,9 +194,9 @@ Isn't it strange and wonderful how sharp smells that make you gag, come from the
 | Hydrocarbons (CH<sub>4</sub>) are the main building blocks of organic energy. All kinds of fossil fuels like coal, oil, butane, propane, etc., are built from increasingly complex forms of this molecule. |
 
 
-# Activity: making sauerkraut
+# Activity: making fermented vegetables
 
-Making sauerkraut is fun and easy to do at home.
+Making sauerkraut and other fermented vegetables is fun and easy to do at home.
 A batch can easily last a year if kept clean and cold.
 It requires no special equipment beyond
 
@@ -311,6 +309,42 @@ I like to make sauerkraut omelettes and use it to spice up vegetable salads.
 | ![](pictures/sauerkraut.jpg) |
 | :-- |
 | `todo:` Photograph fermenting sauerkraut jars. |
+
+
+## Some really good combinations
+
+All the below recipes will benefit from adding yoghurt to the brine.
+Spices, unmentioned invividually, are useful in certain forms:
+
+- up to 10–12 whole black peppercorns per jar to taste;
+- whole nutmeg chopped to the size of peppercorns;
+- fresh parsely, cilantro, rosemary, basil, mint, etc.;
+- dried but not powdered goods like lemon peel; and
+- seeds, powders, and pastes, if part of the final product.
+
+**Tumeric Sprout Kraut.**
+Shred Brussels sprouts and add about 2 medium tumeric roots, finely chopped, per 4 qt.
+Add onions chopped in 1 cm squares, and garlic up to a 1 : 2 :: garlic : tumeric  ratio.
+Because the tumeric will stain the brine, I recommend adding yoghurt to the ferment brine.
+Then use fresh brine without yoghurt for storage, which stains slower.
+
+**Ginger Carrot Sticks.**
+Cut the carrots lengthwise into segments and cut the segments in half.
+Try to break up the bulk near the greens, leaving length for the tip.
+Coarsely chop ginger into 1–2 cm cubes.
+Peeling either carrots or ginger is a personal choice.
+
+**Snips and Barbs.**
+A version of sauerkraut with equal parts shredded parsnip, turnip, and radish.
+Bulk up the base with shredded cabbage to achieve a 2 : 1 :: cabbage : roots ratio.
+Add 1–2 rhubarb stalks cut to 1 cm segments, and optionally onion cut to 1 cm squares.
+
+**Bavarian Kraut.**
+Shred cabbage and add onions and apples chopped to 1 cm squares/cubes.
+Use beef stock in the ferment brine up to a 1 : 1 :: stock : water ratio.
+
+**Green Beans.**
+These are good whole with nutmeg, anise, and other savory-sweet flavors.
 
 
 <!--
