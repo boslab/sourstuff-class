@@ -14,6 +14,10 @@ How about `chemo` `synth` `etic` `tissue` `re` `gener` `ation` `praxis`? 🙃
 But where would we be without `micro` `liters`?
 Most of our science is Latin and this is a good thing.
 
+This document is the content of a class for kindergarten to 4th-grade children.
+It's designed to be a supervised, bring-your-own-vegetables class on lactic acid fermentation.
+The illustrations are original and depict the mood of *Uncleftish Beholding,* the textbook of sorts.
+
 
 # Uncleftish Beholding
 
@@ -202,8 +206,7 @@ It requires no special equipment beyond
 
 - a chopping knife and cutting board,
 - a tablespoon of non-iodized sea salt,
-- a pot with half gallon (2–3 qt kraut) or gallon (6–8 qt) capacity,
-- plenty of fresh water, and
+- a half gallon (2–3 qt kraut) or gallon (6–8 qt) boiling pot, and
 - a tablespoon of Greek yoghurt (recommended).
 
 The best part is that the same technique can be used on almost any combination of vegetables.
