@@ -285,7 +285,7 @@ Make sure that all surfaces, knives, etc., are clean and wash your hands frequen
 **Method.**
 Cut the vegetables how you wish, pack them as tighly as possible leaving 1 in headspace, and cover with brine.
 If you have a small flat weight that fits in the jar to keep the vegetables submerged, please add it.
-<span style="color: red;">**Gently use your palm against the glass, not a hard surface.**</span>
+*Gently use your palm against the glass, not a hard surface.*
 Then close the jar and gently tap the bottom and rotate it, releasing any gas pockets.
 
 This is important because the combination of salt and lack of air inhibits everything but lactobacteria.
